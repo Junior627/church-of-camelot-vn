@@ -1,0 +1,574 @@
+[
+  {
+    "name": "Camelot",
+    "text": "WAKE UP, MY HUMBLE SERVANT!",
+    "character_art": "https://lh3.googleusercontent.com/UQYUYO1csBSL5f1i5EPXeeddfsqgbGTDcoDAvtgd9k56TnlbPX5oZx-76p1Kp14sBAunDOCnbJP7puL-W0LPJsJ9F_c7y0Hn2Q54MlICzJwjaRl2pmxiTfx6VmGMeZjA4S_v9Otv=w2400 ",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "wuh, whaddya want, my Lord?",
+    "character_art": "https://lh3.googleusercontent.com/bz-8Dwgyf_bKbgjySnGBta50BtwtbD_fKTbECxXVR1QlwPojk-nT4x0qX_BLBEcUB8gLVV8Fd41xqRXzn221rck38_e4HQe0ojoRI6DnLQKnIlJn7U9keyYnsKE5v1qob3VAv3A6=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Camelot",
+    "text": "It’s your turn to bring in members for the Church. Make sure you bring in at least 3 members.",
+    "character_art": "https://lh3.googleusercontent.com/lxpe1f-Bba7usiWQBBY5n55tObNbedapqf7c2E1y7TI-Qiui_OFzLKbaanZr9nwzXk8pvzRR2kq-Y3bIYI8itjtRUJWAEhum9yKcFAhbYVfOn9GItIOLFXjEELN5_smNcOVzS32p=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Camelot",
+    "text": "Also, due to time limitations you cannot mess up recruiting any members, or else you will be met with an abrupt end.",
+    "character_art": "https://lh3.googleusercontent.com/kHm1nX3xE0-WhNH53xkwgHE3yHSvEwCtAg2uSH4pgeJtrFsSmUro2bXgKzyA4DKQHtDQiQ3xFe_CP7X0M6_jOoxfMWSHOlWFfvwjRNpZG4ON1y9DYIWxO9q2zTuA9hGf07-Qma1S=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Is there any way to avoid this?.",
+    "character_art": "https://lh3.googleusercontent.com/mAgojRWpRBPg_9HN0-EO_gprDQnP0n_SK9u7-GfTNukJ0QphAUY_cKOtwDcT9aRmFO-qh7ad-sYgKMEiZeFj8cyvMVzHS-rWEumq_SEFMIQ7tth63EGfUSYkS3s0Ylf_cL_5qEQY=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Camelot",
+    "text": " NO! GO NOW, MY HUMBLE SERVANT!",
+    "character_art": "https://lh3.googleusercontent.com/UQYUYO1csBSL5f1i5EPXeeddfsqgbGTDcoDAvtgd9k56TnlbPX5oZx-76p1Kp14sBAunDOCnbJP7puL-W0LPJsJ9F_c7y0Hn2Q54MlICzJwjaRl2pmxiTfx6VmGMeZjA4S_v9Otv=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Jade Beach",
+    "text": "Lancelot heads to the nearest beach as Camelot’s booming voice still echoes in his mind",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "How am I gonna convince people to join our Church?",
+    "character_art": "https://lh3.googleusercontent.com/aMWLBkxW327dYgT_UrvIelYQ5-D2DaEoLilnCWTaQbMwviI4zg9OpD4JUfYPpQYvjMlAQQn7RzQzrS-WdyMORtPspyUKfGzMaGA3t7VMJWmRgXWg96A3WIrR2SO2wtn0MODbCems=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Huh, there is a lone penguin. I wonder if he is okay.",
+    "character_art": "https://lh3.googleusercontent.com/dcHnXToMR3BOxciLSSARiG02Z7xO4egD7IXplu33yIDjjtHAgKM4T-TC0L9_1-HEwUisjDm5rAaxduTlMa8uBzrBCOEfI1jCYVvL6qzwQr674NqUsijoTBmfenztq4_cQHJClcua=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Hi Mr. Penguin, are you alright?",
+    "character_art": "https://lh3.googleusercontent.com/WyrDMzdIfFyELoLB-_gsz_hUDLXDPqWFQPVOHJ5xizw0dq5x9ARq8_PqNiH3sdxsH5ONcjoyE8SW1wNANaBuCwInmVWha50u632bZ0_58hmMoPsZV1YiyLeQaTupgcf4JAE5Yrq1Ng=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "Please don't come any closer.",
+    "character_art": "https://lh3.googleusercontent.com/gyaEC9cleL0Pcyq514KjQsXJUyIQsoN_IQKKW7o2v-wKQsdf70o59zP8Bk3jqajb66cffBeW6-y3VzzewLr_3FqC4iEPwGzZvoidJUFidblthzUHmvEPfvaM5MHxAu8bnekeG78Gcw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Why’s that? Something to hide?",
+    "character_art": "https://lh3.googleusercontent.com/qwRxXVBf4rhJmPka90lsQNmoGbzV3aABrNgBcTDciFrIBeoyGr9YL4Keu4Qi-YcTApS8j-Nqor9psFEOCUBeDkKaO7WWQVhiWccv0pRhUVJoFL2PJYtwpcQVvxKu_ox5ql0mnhyuug=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "NOPE, NOTHING TO HIDE",
+    "character_art": "https://lh3.googleusercontent.com/gmjuzY3DPpJXyS_ln-WPUMD2p51DOO9uYSeUgHnph1wWfNtqEAOucms7jOSf8ksclJSVSbyEYWbGTP8Jdn1pt-EIn4mgU26COpv8t7XkHYKcb1-WxjjfqgOVu0iXVklKvGF850Ypyg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "It doesn’t sound like that, but if you dont wanna talk about it, that’s cool too",
+    "character_art": "https://lh3.googleusercontent.com/GgUHMvmmP7hOpxIIdL2jBATlKkfbJd0TWSEQ1wXziBngUhwKNlsakYeI3ynyDdRV4ZEhUHoWD-MDKzfiIIQlNgtk2IAsVECUHaMsyKZYGe2h1jvUUpz9BYUh70rwhrCOobtem6pOpA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "Promise you won't laugh?",
+    "character_art": "https://lh3.googleusercontent.com/gyaEC9cleL0Pcyq514KjQsXJUyIQsoN_IQKKW7o2v-wKQsdf70o59zP8Bk3jqajb66cffBeW6-y3VzzewLr_3FqC4iEPwGzZvoidJUFidblthzUHmvEPfvaM5MHxAu8bnekeG78Gcw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "I doubt there will be anything to laugh about",
+    "character_art": "https://lh3.googleusercontent.com/mqoTnNSMiHowYJ1M5l2cvp1Ysz3BnzfBSBqRQ-OExmVfTijGk7m0_OG_g3Ls8-e326uB_pz-Fl7B_vaXVM7Kfjmml_2xwS561hrc2i93nm-ql63aQRi8Nwnd28p5wi5_rc4YyyyWMg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "As you can see, I have quite the bald spot. Being featherless is just gonna make me the latest laughing stock",
+    "character_art": "https://lh3.googleusercontent.com/FZfdIOmFoDP6Qg-lKHdRnbOX-Blpc7l0x3yafLHJEdLQ9hKZE01WkUsRJv2bPrA4i3XFJ11EmcA77S49sO86Qgqe_wf3I8OKMVrKOF7dG-9GCoSbFHE4pS0q4I0J0KgAM3lhZYNtJQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Well, I don't find it quite funny, maybe it's all in your head?",
+    "character_art": "https://lh3.googleusercontent.com/GgUHMvmmP7hOpxIIdL2jBATlKkfbJd0TWSEQ1wXziBngUhwKNlsakYeI3ynyDdRV4ZEhUHoWD-MDKzfiIIQlNgtk2IAsVECUHaMsyKZYGe2h1jvUUpz9BYUh70rwhrCOobtem6pOpA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "The problem is that there is NOTHING on my head",
+    "character_art": "https://lh3.googleusercontent.com/FZfdIOmFoDP6Qg-lKHdRnbOX-Blpc7l0x3yafLHJEdLQ9hKZE01WkUsRJv2bPrA4i3XFJ11EmcA77S49sO86Qgqe_wf3I8OKMVrKOF7dG-9GCoSbFHE4pS0q4I0J0KgAM3lhZYNtJQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Right, right. Anyways, how did that happen?",
+    "character_art": "https://lh3.googleusercontent.com/qwRxXVBf4rhJmPka90lsQNmoGbzV3aABrNgBcTDciFrIBeoyGr9YL4Keu4Qi-YcTApS8j-Nqor9psFEOCUBeDkKaO7WWQVhiWccv0pRhUVJoFL2PJYtwpcQVvxKu_ox5ql0mnhyuug=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "For this tale, we need a flashback",
+    "character_art": "https://lh3.googleusercontent.com/gyaEC9cleL0Pcyq514KjQsXJUyIQsoN_IQKKW7o2v-wKQsdf70o59zP8Bk3jqajb66cffBeW6-y3VzzewLr_3FqC4iEPwGzZvoidJUFidblthzUHmvEPfvaM5MHxAu8bnekeG78Gcw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "FLASHBACK",
+    "text": "",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "When my colony went out for our daily swim, Fishyne, the infamous Catfish, ambushed us.",
+    "character_art": "https://lh3.googleusercontent.com/wHZcg3e4qrxKd1r0BKWMB-shpTGR07YUgdJf0Ky0twkV-7ur33pPg7rmJXS1lQLMUadkl2zfqs0XK6XjnZmotL-s2Wn6IsLOokTg_FSHTeAmK0FVmIcCyZ8it80o9tFZaQyichsd3A=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "It was a massacre.",
+    "character_art": "https://lh3.googleusercontent.com/wHZcg3e4qrxKd1r0BKWMB-shpTGR07YUgdJf0Ky0twkV-7ur33pPg7rmJXS1lQLMUadkl2zfqs0XK6XjnZmotL-s2Wn6IsLOokTg_FSHTeAmK0FVmIcCyZ8it80o9tFZaQyichsd3A=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "Before I knew it, Fishyne rapidly approached me but I was able to escape just by a hair, literally.",
+    "character_art": "https://lh3.googleusercontent.com/wHZcg3e4qrxKd1r0BKWMB-shpTGR07YUgdJf0Ky0twkV-7ur33pPg7rmJXS1lQLMUadkl2zfqs0XK6XjnZmotL-s2Wn6IsLOokTg_FSHTeAmK0FVmIcCyZ8it80o9tFZaQyichsd3A=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "It bit my hair thinking it was my head. I knew my once luscious hair was a blessing.",
+    "character_art": "https://lh3.googleusercontent.com/t4xhqPqkADR1UbGMEPr1qTfZqK7yFwdatJU3LPF-mPSP_rQr42XExlpMaeFday0m6Ot3kbXR2CcKFQneTQIsPqSnhl3Ghh98CpmVtaqKi4ZFTJIVQEdNs4xjF6Yg6Q2SdkZEb4WCbw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Fishyne",
+    "text": "Huh? This Penguin tastes horrible...",
+    "character_art": "https://lh3.googleusercontent.com/cLH-7PHKQeiVIlh_U3_zmFGZuAjn_3A8NXovtZAW1NLtrDxmKr1slmUnbeedOP9lfhmuTm_XdEdKBp0xee6cYjKNvNtcybJoKauWl6uxq8EK1_BfBJFR9J5toozaMJpF9_ECeD9Srw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "(I AM ALIVE)",
+    "character_art": "https://lh3.googleusercontent.com/R78p1kj6dSStYfaczwEQEA25UgFwQrErODI2h3HP9SA7QPEQ3U5ArsO8882d8r9vjoEmgNsIimfx9EFILcg3s9vW-qExXveNA9_JnVaoJmKeIcmy4eWdKWbplWz-JYnsZAvNEJPDHg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "I escaped afterwards which marks the end of my story",
+    "character_art": "https://lh3.googleusercontent.com/gyaEC9cleL0Pcyq514KjQsXJUyIQsoN_IQKKW7o2v-wKQsdf70o59zP8Bk3jqajb66cffBeW6-y3VzzewLr_3FqC4iEPwGzZvoidJUFidblthzUHmvEPfvaM5MHxAu8bnekeG78Gcw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "I do miss my hair dearly...",
+    "character_art": "https://lh3.googleusercontent.com/gyaEC9cleL0Pcyq514KjQsXJUyIQsoN_IQKKW7o2v-wKQsdf70o59zP8Bk3jqajb66cffBeW6-y3VzzewLr_3FqC4iEPwGzZvoidJUFidblthzUHmvEPfvaM5MHxAu8bnekeG78Gcw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "(But not his entire colony?)",
+    "character_art": "https://lh3.googleusercontent.com/jC-iyYbtspYqCPUbKlGQCxXp2yEkw1pI5WlJ7ktidn51YgAISZdpj3ytjhRVhORy-uXNDEhR1oyBbyHgIJj67N-fRfxYsU0r9Rj8fvnNHOKS8uQIZVVdCe4LAcx0rT8TPTSx4OiMFA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Well that is horrible in more ways than one, but I think I can offer support",
+    "character_art": "https://lh3.googleusercontent.com/mqoTnNSMiHowYJ1M5l2cvp1Ysz3BnzfBSBqRQ-OExmVfTijGk7m0_OG_g3Ls8-e326uB_pz-Fl7B_vaXVM7Kfjmml_2xwS561hrc2i93nm-ql63aQRi8Nwnd28p5wi5_rc4YyyyWMg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "Really, how?",
+    "character_art": "https://lh3.googleusercontent.com/ORbOBZ53e8AKV7pPKsrDY0YgIeIGHvJGKxBbuVqXQ2rD6LQ2nCG9sFkUn7ohFu_4_uYxkbltuNvolAuep6qlQT-5Xk9kdMvA9TO944Jfr3nd3olnT6E_DGrpzGveMCgUumNd5m4FOg=w2400",
+    "choices": ["Give a Catfish", "Promise Wig", "Steal Bandanna"],
+    "death": [0, 2]
+  },
+  {
+    "name": "Lancelot",
+    "text": "I can offer you a somewhat luxurious wig over at my, uh, “organization”",
+    "character_art": "https://lh3.googleusercontent.com/7vsz29MUC1nIQnFDK4UlLYGfbxM7KsFSjNhbKeoqd1sOzRC3ytqIRRsbO6ndJAAJiw-wVcVnwTXvOjRdD4KSJBBpbqGJqO3tMYFdnCxgeCh6HTtZxDjwX6bacIb0EEU8Sahkr14ixw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Mr. Penguin",
+    "text": "No way, if you are this kind, imagine how kind your organization is!",
+    "character_art": "https://lh3.googleusercontent.com/rP4yVVGQ7O3AEF98yB5kXeskJddvUYJJMNWDj5OwB3Rr0qYkhqs357herhSVzaVUjD0YJegO9s5uDQ0ds-zkE1vDGBrsWglauDSmMMOl7xVKR3t7EVlt5kzKXosaNf6Z1nT5fA2OaQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Yeah, it'll be like a new family for you! By the way, my name is Lancelot!",
+    "character_art": "https://lh3.googleusercontent.com/WyrDMzdIfFyELoLB-_gsz_hUDLXDPqWFQPVOHJ5xizw0dq5x9ARq8_PqNiH3sdxsH5ONcjoyE8SW1wNANaBuCwInmVWha50u632bZ0_58hmMoPsZV1YiyLeQaTupgcf4JAE5Yrq1Ng=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Genshi",
+    "text": "Mine's Genshi!",
+    "character_art": "https://lh3.googleusercontent.com/ORbOBZ53e8AKV7pPKsrDY0YgIeIGHvJGKxBbuVqXQ2rD6LQ2nCG9sFkUn7ohFu_4_uYxkbltuNvolAuep6qlQT-5Xk9kdMvA9TO944Jfr3nd3olnT6E_DGrpzGveMCgUumNd5m4FOg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Alright, Genshi. We’ll head over to the “organization” after we make a trip through Nokocchi City. I have an errand to do.",
+    "character_art": "https://lh3.googleusercontent.com/7vsz29MUC1nIQnFDK4UlLYGfbxM7KsFSjNhbKeoqd1sOzRC3ytqIRRsbO6ndJAAJiw-wVcVnwTXvOjRdD4KSJBBpbqGJqO3tMYFdnCxgeCh6HTtZxDjwX6bacIb0EEU8Sahkr14ixw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Nokocchi City",
+    "text": "As the party of two makes their way to Nokocchi City, Lancelot plans his next recruiting scheme on an innocent household",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Hello, anyone home?",
+    "character_art": "https://lh3.googleusercontent.com/mqoTnNSMiHowYJ1M5l2cvp1Ysz3BnzfBSBqRQ-OExmVfTijGk7m0_OG_g3Ls8-e326uB_pz-Fl7B_vaXVM7Kfjmml_2xwS561hrc2i93nm-ql63aQRi8Nwnd28p5wi5_rc4YyyyWMg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "TV Head",
+    "text": "H- Oh no, are you one of those door-to-door evangelists?",
+    "character_art": "https://lh3.googleusercontent.com/BDsaJdMg0GexKYBF7yuV_geikM3dW8HDE26OX2NWUCIbu0_US5UJY81Z5wo_bH3OFMQm2OH2_Tg1xGS2Kcb09Jg7bTsVomry88n_3-gwg4YRqDRtxjMkZT20D-eUw6_UXdrbrEo-eA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "I don't understand what you mean",
+    "character_art": "https://lh3.googleusercontent.com/mqoTnNSMiHowYJ1M5l2cvp1Ysz3BnzfBSBqRQ-OExmVfTijGk7m0_OG_g3Ls8-e326uB_pz-Fl7B_vaXVM7Kfjmml_2xwS561hrc2i93nm-ql63aQRi8Nwnd28p5wi5_rc4YyyyWMg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "TV Head",
+    "text": "Some will.",
+    "character_art": "https://lh3.googleusercontent.com/0X9uBvMlcVpRdQMW1h6ZslRNULVfW46q4g7Z5Ub61fVvoI6a_t5_hvDtAWYtCuKBLQZwcH_TnNFjkFreIWUITtQH2lSSZWq8FMz_libEue7N0pHfpmVk6WWcML9qupmYvW864XfOKg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "???",
+    "character_art": "https://lh3.googleusercontent.com/WqZzk5hnqDZGdncFZ3XjdDT0kSxeMARMRJUQ0w_6m6njG_ipC3fsBfQYjg0RcBDz6Ttd7S11COmnDPaATxrPPCXjmfzRRIMK4scWSlfG9K_m37UGPri7e8SHGfzCYxEGj3zsxz6byw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "TV Head",
+    "text": "Anyways, what can I do for you?",
+    "character_art": "https://lh3.googleusercontent.com/cdBu7axfiFSwJ1sESFrBoEh6QjoBrBQoqyi1udVCFKEtvvKSXRt0Gd6Qh7eh6OwVPkkRjBUOqIZoC3dZ10E2lK32w4uCg6hvRpv22aVWYRG4PMirz4rUOsdHENTuqPKj5Jicb-YoLA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Genshi",
+    "text": "Wait a second, you are Ellen, the host of Dill or No Dill! I am Genshi and that is Lancelot",
+    "character_art": "https://lh3.googleusercontent.com/rP4yVVGQ7O3AEF98yB5kXeskJddvUYJJMNWDj5OwB3Rr0qYkhqs357herhSVzaVUjD0YJegO9s5uDQ0ds-zkE1vDGBrsWglauDSmMMOl7xVKR3t7EVlt5kzKXosaNf6Z1nT5fA2OaQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen",
+    "text": "Good afternoon Genshi and Lancelot, want my autographs or something",
+    "character_art": "https://lh3.googleusercontent.com/cdBu7axfiFSwJ1sESFrBoEh6QjoBrBQoqyi1udVCFKEtvvKSXRt0Gd6Qh7eh6OwVPkkRjBUOqIZoC3dZ10E2lK32w4uCg6hvRpv22aVWYRG4PMirz4rUOsdHENTuqPKj5Jicb-YoLA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Genshi",
+    "text": "Yes, I do, but what are you doing here? Aren't you supposed to be hosting the game show right now?",
+    "character_art": "https://lh3.googleusercontent.com/ORbOBZ53e8AKV7pPKsrDY0YgIeIGHvJGKxBbuVqXQ2rD6LQ2nCG9sFkUn7ohFu_4_uYxkbltuNvolAuep6qlQT-5Xk9kdMvA9TO944Jfr3nd3olnT6E_DGrpzGveMCgUumNd5m4FOg=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen",
+    "text": "Yeah, but I was fired, they found out I wasn’t a pickle enthusiast",
+    "character_art": "https://lh3.googleusercontent.com/0X9uBvMlcVpRdQMW1h6ZslRNULVfW46q4g7Z5Ub61fVvoI6a_t5_hvDtAWYtCuKBLQZwcH_TnNFjkFreIWUITtQH2lSSZWq8FMz_libEue7N0pHfpmVk6WWcML9qupmYvW864XfOKg=w2400",
+    "choices": [
+      "Well, it's no big dill, right?",
+      "Sounds like you are quite in a pickle",
+      "Are you doing alright?"
+    ],
+    "death": [0, 1]
+  },
+  {
+    "name": "Ellen",
+    "text": "Just going through the stages of grief real quick. Currently at bargaining, especially since rent is due next week",
+    "character_art": "https://lh3.googleusercontent.com/BDsaJdMg0GexKYBF7yuV_geikM3dW8HDE26OX2NWUCIbu0_US5UJY81Z5wo_bH3OFMQm2OH2_Tg1xGS2Kcb09Jg7bTsVomry88n_3-gwg4YRqDRtxjMkZT20D-eUw6_UXdrbrEo-eA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": " In that case, how about I offer you a job at our “organization”. You’ll be an entertainer for the people of the organization and we’ll provide free housing and food! Goodbye rent stress!",
+    "character_art": "https://lh3.googleusercontent.com/7vsz29MUC1nIQnFDK4UlLYGfbxM7KsFSjNhbKeoqd1sOzRC3ytqIRRsbO6ndJAAJiw-wVcVnwTXvOjRdD4KSJBBpbqGJqO3tMYFdnCxgeCh6HTtZxDjwX6bacIb0EEU8Sahkr14ixw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen",
+    "text": "I’ll take it, you do not know how desperate I am. When can I start?",
+    "character_art": "https://lh3.googleusercontent.com/ogm5_y6BzTGjqPYBogI8-k7MVA2GGtQlMKadDkZiWQbr_8JsyaF1PAZq48gsdywcutiqZCQXI-oQz9qNy5xGnnwDinVTn0IrOz_nnh2k5q-B6DPuZwC4XwfAX4tb_ieQenfqV2WMEQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": " Today - we’ll just be heading through Shroom Grove first",
+    "character_art": "https://lh3.googleusercontent.com/WyrDMzdIfFyELoLB-_gsz_hUDLXDPqWFQPVOHJ5xizw0dq5x9ARq8_PqNiH3sdxsH5ONcjoyE8SW1wNANaBuCwInmVWha50u632bZ0_58hmMoPsZV1YiyLeQaTupgcf4JAE5Yrq1Ng=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen",
+    "text": "Alright, guide me Occult One",
+    "character_art": "https://lh3.googleusercontent.com/_lU8gMfGg2PBPNZypn8CRKncmfwTu1qQpsx0xnewrGbU6XwrTRh_VRB9ySq6-6nk81r0tOVgppvyN_ZFzPROAxOvrbNIBgD9QNfQDnU1gldPxE7L4bAiq6ZUBOWLKWGlajzqd3UGrA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Shroom Grove",
+    "text": "As the group makes their way through Shroom Grove, they did not expect to get interrupted by a boisterous fungus",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": " Leave at once, intruder, for I am Portobell of Shroom Grove!",
+    "character_art": "https://lh3.googleusercontent.com/G3-2vqVbmjXtzxqh1FZoBtZJuiYLOMZSRXTvB5Z_qVB8yj5tvIXnpnY0ZciDXDN0CefbR4w7JouUyzYNt0wKYhQMPlgPtULp6h-eca8zbGggx_vdNLfXc5O39TVcVZ3RSyM_mygamw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "What do you mean? This is the public section of Shroom Grove. We are allowed to walk through here",
+    "character_art": "https://lh3.googleusercontent.com/3K8UrisqyL8WuGmNC4iPM5Kybp2VyjR3CIRW_X5sQqKi98y65bmTbxgWAHL00g9otrip7_38_wpPH_UmUps1wk8-9ibg7uUumkqh0imGc04OAMqUFVVRz6GqL7Na4VuNj298JUBb0Q=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "Wait, really? I'm sorry about that. It's just that I'm new to this job so I don’t know which land belongs to the Shroom people",
+    "character_art": "https://lh3.googleusercontent.com/VZhWjdk3GFz-ZZrHRiibFt-NurjyVHe5EkEAgRpYWS5m1ySngBEtm6eFhEmvg8pYetCB2n4bd4GfCwbOFQZObSOSfFcA7ea2e2IAyqLLvY5opyfHkDAvIO_aY1JFYSL-vSdscdJQuQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen",
+    "text": "Huh, what job?",
+    "character_art": "https://lh3.googleusercontent.com/8aCZOkI7xaWhls4M-CbZica1H7ajUYiG9_2VxDIhFYAEwaeyN1Ja5W31bY2ZlZ4oaL_gHZTXC8Jh66_yI1dlVDSOcSWNc3v9OmhX0x6jBFHglsNqvDn551eCqhqYUh2579-ic13ZMw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "You see, Shroom Grove is a popular place for us Shrooms. This place is the amalgamation of beauty, people, and opportunity",
+    "character_art": "https://lh3.googleusercontent.com/VZhWjdk3GFz-ZZrHRiibFt-NurjyVHe5EkEAgRpYWS5m1ySngBEtm6eFhEmvg8pYetCB2n4bd4GfCwbOFQZObSOSfFcA7ea2e2IAyqLLvY5opyfHkDAvIO_aY1JFYSL-vSdscdJQuQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "But, I got placed as a bodyguard and I am not enjoying this job nor Shroom Grove at all",
+    "character_art": "https://lh3.googleusercontent.com/GgWR9KEmrfE_vHtixeu8z5rsAJjMK0naA4-_jTVzKR52g0XGY-8HIFbFKvo-kXL0vWMIvfat9Rv3uxxvcM9y9LSFTiF4mSyr_tgND-f3bG9z8M3XQI1RQlppOVTA_bTps7YuwZPJJA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "I came to this place a few days ago but I just feel so out of place. Everyone here seems to love puns and I am so tired of it",
+    "character_art": "https://lh3.googleusercontent.com/GgWR9KEmrfE_vHtixeu8z5rsAJjMK0naA4-_jTVzKR52g0XGY-8HIFbFKvo-kXL0vWMIvfat9Rv3uxxvcM9y9LSFTiF4mSyr_tgND-f3bG9z8M3XQI1RQlppOVTA_bTps7YuwZPJJA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Who is gonna tell him that his name is a pun?",
+    "character_art": "https://lh3.googleusercontent.com/3K8UrisqyL8WuGmNC4iPM5Kybp2VyjR3CIRW_X5sQqKi98y65bmTbxgWAHL00g9otrip7_38_wpPH_UmUps1wk8-9ibg7uUumkqh0imGc04OAMqUFVVRz6GqL7Na4VuNj298JUBb0Q=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Genshi",
+    "text": "Don't do that to him",
+    "character_art": "https://lh3.googleusercontent.com/AbPZafXjBSg-xL6jo3Eb0M_KnIy5yD1Eqp07TH57WJhjl8ftHr3BP1nfJKBMLVKlIO0urwMcFvqT24QxJF15LRk1LZnrkDFhTH6ctIqw04szdhrkQywkTTRmbARk3x_ndVp2WgvLog=w2400",
+    "choices": ["Tell him the truth"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "wait what",
+    "character_art": "https://lh3.googleusercontent.com/HiN6MAr8yXuXaGWHcbQZ1weH3D0bvPIsOLjZKBQrBV8cs9oS3_Az0JbiImPkrcm38b1M2C0B5DAZ17kBU455o5PIAHPdjsUgFof01koUh0-Xt5Unnp53HGxTB-fsKDahNsBPxfGdFw=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "How could they give me a name that is a pun?",
+    "character_art": "https://lh3.googleusercontent.com/GgWR9KEmrfE_vHtixeu8z5rsAJjMK0naA4-_jTVzKR52g0XGY-8HIFbFKvo-kXL0vWMIvfat9Rv3uxxvcM9y9LSFTiF4mSyr_tgND-f3bG9z8M3XQI1RQlppOVTA_bTps7YuwZPJJA=w2400",
+    "choices": ["Give?"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "In order to join Shroom Grove, they give us a name to signify a new life",
+    "character_art": "https://lh3.googleusercontent.com/VZhWjdk3GFz-ZZrHRiibFt-NurjyVHe5EkEAgRpYWS5m1ySngBEtm6eFhEmvg8pYetCB2n4bd4GfCwbOFQZObSOSfFcA7ea2e2IAyqLLvY5opyfHkDAvIO_aY1JFYSL-vSdscdJQuQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen",
+    "text": "Sounds like a cult...",
+    "character_art": "https://lh3.googleusercontent.com/n5A4bNdX5mKgg3Bjmwd5Vgm8mdNinQCf5dxyOpMS8cNxPXgkSBj6I-NVLBtsTd1GcA2RczCWbF2Xd4D-zwQFYpVcUMc9F0Ppru_gI7rxIGveBB8BDKo5RP7Y-3udNLyn_6HoLlaWXQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "That is one of the many reasons as to why I can't stand them anymore! I am not fit for Shroom Grove!",
+    "character_art": "https://lh3.googleusercontent.com/GgWR9KEmrfE_vHtixeu8z5rsAJjMK0naA4-_jTVzKR52g0XGY-8HIFbFKvo-kXL0vWMIvfat9Rv3uxxvcM9y9LSFTiF4mSyr_tgND-f3bG9z8M3XQI1RQlppOVTA_bTps7YuwZPJJA=w2400",
+    "choices": ["Offer your company", "You are weak", "Make a mushroom pun"],
+    "death": [1, 2]
+  },
+  {
+    "name": "Lancelot",
+    "text": "If you are looking for a more suitable community, our, uh, “organization” can make sure not to drown you with puns ",
+    "character_art": "https://lh3.googleusercontent.com/H-HyGQe11aOKvnhvWyLid9OhUQWg3HEXB-5B639DerYY5RhcqQLFGkx4BX4GKL36Ubki1m6WcHwgATHHC_MGqtvf7OtsEXl2x-Qe3vDNtfv5x7hQZrgO1Bfv4OWamycbA6gk78MGZA=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Portobell",
+    "text": "I would love that! You are a lifesaver! You are like a saint sent from Gods!",
+    "character_art": "https://lh3.googleusercontent.com/PGlNGHI9wmItBUwtSf7olJ0lht8nf1gFkIl6_wjEej9ldmA9B4lnMLKA905EmPdZB2mGWBX6NeCVIYkqiGpM8fvq2Hos4R8mxyAWd7EjBLZP0cXwNVrSNykfcT53aWwdpRlprCc1Ag=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "heh, maybe...",
+    "character_art": "https://lh3.googleusercontent.com/xCmcrDaC1JnJR3ad9hoE-F6LRST0txkahAovOP0iuJp0Wqo_OuUULLRgG5fiLp459UTohbPpffq8ZbVOAcAYFZbE_pzsS5emmO5gRvxKnjQf6W4h8cox_bozhoMdl7IF0wPfCfI6dQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Genshi",
+    "text": "By the way, what is your real name?",
+    "character_art": "https://lh3.googleusercontent.com/S2cCImmjRBzTAEn8K2uUI1Ojbk7FXQ6p6Ht-bNH7RG2UOjXBiHzxEsgIMGzb2riCuOw_mzLNDIWHvdspAuo_kLnX0j0GpFJTV7gxERqBjA9rrf81k2oQbaaqdCiLJEFyanw8cR4MWQ=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Maituh",
+    "text": "Maituh!",
+    "character_art": "https://lh3.googleusercontent.com/PGlNGHI9wmItBUwtSf7olJ0lht8nf1gFkIl6_wjEej9ldmA9B4lnMLKA905EmPdZB2mGWBX6NeCVIYkqiGpM8fvq2Hos4R8mxyAWd7EjBLZP0cXwNVrSNykfcT53aWwdpRlprCc1Ag=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot, Genshi & Ellen",
+    "text": "...Let's just not mention it...",
+    "character_art": "https://lh3.googleusercontent.com/h-8_IejTud8PkQJHLvlJMNQt27y2BDnogopSL4HuT8Mc5pc4lUdaxH2DG3Z1BhnfK5oFgKJb504iSoZOWq_IAVI4-yTbuY8qLcqgqSPv-2HLez57PZL9h04R6RQHKjn2yrnFdLu59A=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Lancelot",
+    "text": "Oh by the way, I am Lancelot, that is Genshi and Ellen",
+    "character_art": "https://lh3.googleusercontent.com/RCHcv_gS9yJjEWGQWR_-_LRxPtWfdneoZHMIqlRZ2jGxC22WPn9GWvkc4IlCtu6PzRsTOt9Du8xdjqRmFDz-Pnv2slVuJS5xdvAw3qSMzzKSG1qfV4AzBRguWIQuI-Vy03ccDw4w5Q=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Maituh",
+    "text": "Pleased to know you guys!",
+    "character_art": "https://lh3.googleusercontent.com/PGlNGHI9wmItBUwtSf7olJ0lht8nf1gFkIl6_wjEej9ldmA9B4lnMLKA905EmPdZB2mGWBX6NeCVIYkqiGpM8fvq2Hos4R8mxyAWd7EjBLZP0cXwNVrSNykfcT53aWwdpRlprCc1Ag=w2400",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "The Church of Camelot",
+    "text": "The Party of Four make their way to the Church of Camelot, the 'organization'",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Genshi falls in love with the wig provided by Lancelot. He also seems to enjoy with his new found family",
+    "text": "",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Ellen finds new love as an entertainer for the Church of Camelot and no longer being tied down by the stress of rent",
+    "text": "",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": []
+  },
+  {
+    "name": "Maituh is glad to be in a community that does not spout puns every few seconds. Maituh no longer feels like their name is a punishment to them",
+    "text": "",
+    "character_art": "",
+    "choices": ["Continue"],
+    "death": [],
+    "victory": [0]
+  }
+]

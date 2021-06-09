@@ -1,2 +1,2 @@
-# church-of-camelot-vn
+# camelot-rpg
 Created with CodeSandbox
